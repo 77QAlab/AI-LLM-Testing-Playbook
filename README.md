@@ -49,3 +49,19 @@ Offline and live evaluation
 RAG and agent validation
 Metrics that reflect real system confidence
 
+# Feedback & Contributions
+We welcome suggestions, corrections, and new ideas.
+
+To share feedback:
+
+Click on the Issues tab
+Select New Issue
+Choose “Roadmap Feedback”
+Describe your suggestion
+All constructive input is appreciated.
+
+# Citation
+If you reference this roadmap, please cite:
+
+Tanvi Mittal, "AI-Powered Testing Roadmap", GitHub, 2026
+
